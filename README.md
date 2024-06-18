@@ -1,14 +1,17 @@
 # ExpenseClaim
-Expense  claim Application used for calculating the saletax based on the input text passed  to the Api
+Expense  claim Application used for calculating the saletax based on the input 
+text passed  to the Api
 
 
-    >>    This Source Repo Contains ExpenseClaim workable solution and Unit Test Project using Xunit Framework and moq the data in test project
+    >>    This Source Repo Contains ExpenseClaim workable solution and Unit Test Project using Xunit Framework 
+    and moq the data in test project
 
 
 
 		EndPoint:  api/ExpenseClaim/extract
 
-	Below are the sample  working request  as per the coding excersice , it cover all the scenarios mentioned in the document.
+	Below are the sample  working request  as per the coding excersice , it cover all the scenarios 
+ mentioned in the document.
 
 
 	Posstive Scenario :
